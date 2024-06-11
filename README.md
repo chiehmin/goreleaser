@@ -3,6 +3,7 @@
   <h3 align="center">GoReleaser</h3>
   <p align="center">Deliver Go binaries as fast and easily as possible.</p>
 </p>
+fdsafsa
 
 ---
 
